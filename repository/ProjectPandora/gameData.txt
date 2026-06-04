@@ -1,0 +1,8 @@
+*Slay the Spire II
+IronClad,Armor,Vulnerable,No Cost,Combo,Exhaust
+Silent,Shiv,Poisn,Discard,Finisher
+Defect,Dark,Glass,Lightning,Ice,No Orbs,Random Orbs
+Necro Binder,Summon,Hand Combo,Doom,Hand
+The Regent,Sword,needMoreData,needEvenMoreData,Sample Data
+*Vampire Survivors
+GunGal,Guns
